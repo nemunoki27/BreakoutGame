@@ -1,0 +1,13 @@
+/Binaries/
+/Build/*/FileOpenOrder/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.idea/
+/*.sln
+/*.suo
+/*.VC.db
+*.opensdf
+*.sdf
+*.sln.docstates
